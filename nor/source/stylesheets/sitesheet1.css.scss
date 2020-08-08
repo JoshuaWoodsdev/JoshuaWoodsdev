@@ -1,8 +1,4 @@
 
-body {
-    background-color: white;
-}
-
 #ok {
     font-size: 30vh;
 }
@@ -27,6 +23,7 @@ ul li a {
     position: relative;
     transition: all 0.5s;
 }
+
 a:hover {
     color: white;
 }
@@ -78,6 +75,7 @@ span:nth-child(4) {
 
 body {
     font-family: 'Open Sans', sans-serif;
+     background-color: white;
 }
 
 .blockspace {
