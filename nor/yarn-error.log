@@ -1,5 +1,5 @@
 Arguments: 
-  /home/nor/.nvm/versions/node/v14.15.4/bin/node /usr/local/bin/yarn install
+  /home/nor/.nvm/versions/node/v14.15.4/bin/node /usr/local/bin/yarn init
 
 PATH: 
   /home/nor/.nvm/versions/node/v14.15.4/bin:/tmp/.mount_hyper-b7nUhF:/tmp/.mount_hyper-b7nUhF/usr/sbin:/usr/share/rvm/gems/ruby-2.7.2/bin:/usr/share/rvm/gems/ruby-2.7.2@global/bin:/usr/share/rvm/rubies/ruby-2.7.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/share/rvm/bin
